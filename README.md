@@ -1,7 +1,7 @@
 slimon
 ======
 
-Monitoring system based on a mashup of the best.
+Monitoring system based on a mashup of the best lightest.
 
 ### Purpose
 Bind toghether the lightest components for monitoring data polling, storing, retrieving and alarming.
